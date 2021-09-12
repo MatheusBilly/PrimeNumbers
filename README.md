@@ -1,5 +1,5 @@
 # PrimeNumbers
-Projeto de avaliação prática FrameWork.
+Projeto de avaliação prática da equipe FrameWork.
 
 # Sobre o Projeto
 A aplicação consiste em atender os requisitos solicitados no Technical Challenge proposto pela FrameWork. 

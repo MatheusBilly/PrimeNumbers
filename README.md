@@ -13,5 +13,8 @@ O desafio é que a aplicação seja capaz de decompor um número em todos os seu
 - Bogus
 - FluentValidation para validação de ViewModel
 
+## Obserções
+Ao executar o projeto PrimeNumbers.Console, atentar-se a porta localhost. A porta utilizada pelo projeto foi a https://localhost:44390/.
+
 
 
